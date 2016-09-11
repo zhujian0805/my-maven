@@ -24,6 +24,11 @@
         <artifactId>kafka_2.10</artifactId>
         <version>0.10.0.1</version>
     </dependency>
-
+    <!-- https://mvnrepository.com/artifact/com.rabbitmq/amqp-client -->
+    <dependency>
+        <groupId>com.rabbitmq</groupId>
+        <artifactId>amqp-client</artifactId>
+        <version>3.6.5</version>
+    </dependency>
   </dependencies>
 </project>
