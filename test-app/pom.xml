@@ -18,5 +18,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka_2.10 -->
+        <groupId>org.apache.kafka</groupId>
+        <artifactId>kafka_2.10</artifactId>
+        <version>0.10.0.1</version>
+    </dependency>
+
   </dependencies>
 </project>
