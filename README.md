@@ -16,3 +16,6 @@ java -cp test-app/target/classes/ com.mycompany.app.App
 # Run app
 java -cp target/test-app-1.0-SNAPSHOT.jar com.mycompany.app.App
 
+# Notes
+GroupID - Unique identifier of project organization, -- com.company.App
+ArtifactID - Unique identifier of project, -- maven_demo_app
