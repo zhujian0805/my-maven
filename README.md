@@ -12,3 +12,6 @@ mvn archetype:generate -DgroupId=com.james -DartifactId=CounterWebApp -Darchetyp
 
 # Fatal error compiling: invalid target release: 1.9
 Change the version in pom.xml
+
+# Execute the program using the following command, need the full package path
+java -cp test-app/target/classes/ com.mycompany.app.App
